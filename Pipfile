@@ -19,6 +19,7 @@ lightgbm = "*"
 #optuna = "*"
 deepxde = "*"
 torch = "*"
+pydoe = "*"
 
 [dev-packages]
 
